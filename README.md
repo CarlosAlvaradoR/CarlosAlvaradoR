@@ -1,25 +1,49 @@
 # ¡Hola! 👋 Soy Carlos Alvarado
 
-🚀 Desarrollador Frontend | 💼 Especialista en sitios profesionales | 🏛️ Creando presencia digital para estudios jurídicos
+🚀 **Desarrollador Full Stack** | 💼 **Especialista en Desarrollo Web** | 🏛️ **Creador de Soluciones Digitales Profesionales**
 
-## 🔧 Tecnologías que domino
+## 🔧 Stack Tecnológico
 
+### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+
+### ☁️ Cloud & Más
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌟 Proyectos Destacados
 
-[![Legal & Asociadas](https://github-readme-stats.vercel.app/api/pin/?username=CarlosAlvaradoR&repo=legal-asociadas&theme=dark)](https://github.com/CarlosAlvaradoR/legal-asociadas)
+[![Legal & Asociadas](https://github-readme-stats.vercel.app/api/pin/?username=CarlosAlvaradoR&repo=legal-asociadas&theme=dark&show_owner=true)](https://github.com/CarlosAlvaradoR/legal-asociadas)
 
-## 📊 Mis estadísticas
+## 📊 Mis Estadísticas
 
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=CarlosAlvaradoR&show_icons=true&theme=dark&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlvaradoR&layout=compact&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosAlvaradoR&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Estadísticas GitHub" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlvaradoR&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" width="48%">
+</div>
 
 ## 📫 Contáctame
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
+[![Email](https://img.shields.io/badge/Email-carlos2000emilioa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos2000emilioa@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51921538242)
+[![Teléfono](https://img.shields.io/badge/Teléfono-+51935459929-0077B5?style=for-the-badge&logo=phone&logoColor=white)](tel:+51935459929)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
+
+---
+
+<div align="center">
+  <sub>✨ "El código es poesía lógica que transforma ideas en realidad" ✨</sub>
+</div>
