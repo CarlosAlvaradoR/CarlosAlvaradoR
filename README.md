@@ -1,6 +1,19 @@
+
 # ¡Hola! 👋 Soy Carlos Alvarado
 
 🚀 **Desarrollador Full Stack** | 💼 **Especialista en Desarrollo Web** | 🏛️ **Creador de Soluciones Digitales Profesionales**
+
+## 🌐 Mi Portafolio Profesional
+
+Conoce mi experiencia, habilidades técnicas y los proyectos en los que he trabajado. En mi portafolio encontrarás más información sobre mi trayectoria como desarrollador de software.
+
+### 👇 Visita mi portafolio web
+
+[![Mi Portafolio Web](https://img.shields.io/badge/🌐_VER_MI_PORTAFOLIO_WEB-www.calvarador.com-2563EB?style=for-the-badge)](https://www.calvarador.com/)
+
+🔗 **Enlace directo:** [www.calvarador.com](https://www.calvarador.com/)
+
+---
 
 ## 🔧 Stack Tecnológico
 
@@ -15,7 +28,7 @@
 
 ### 🗃️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ⚙️ Backend
@@ -29,9 +42,13 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
 ## 🌟 Proyectos Destacados
 
 [![Legal & Asociadas](https://github-readme-stats.vercel.app/api/pin/?username=CarlosAlvaradoR&repo=legal-asociadas&theme=dark&show_owner=true)](https://github.com/CarlosAlvaradoR/legal-asociadas)
+
+---
 
 ## 📊 Mis Estadísticas
 
@@ -40,12 +57,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlvaradoR&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" width="48%">
 </div>
 
+---
+
 ## 📫 Contáctame
 
 [![Email](https://img.shields.io/badge/Email-carlos2000emilioa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos2000emilioa@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51921538242)
 [![Teléfono](https://img.shields.io/badge/Teléfono-+51935459929-0077B5?style=for-the-badge&logo=phone&logoColor=white)](tel:+51935459929)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-alvarado-robles-303a81283/)
 
 ---
 
